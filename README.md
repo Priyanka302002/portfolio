@@ -23,7 +23,7 @@ Welcome to my **Data Analytics Portfolio**, where I showcase my projects in **Po
 🤖 **Tech Used:** `Machine Learning` `Python` `Natural Language Processing`  
 🔹 Classifying news articles as **Fake** or **Real** using **ML models** and **NLP techniques**.
 
-<img src="images/portfolio/fake_news_detection.png" width="800" />  
+<img src="images/portfolio/fake_news_dectection.png" width="800" />  
 
 ---
 
