@@ -19,6 +19,14 @@ Welcome to my **Data Analytics Portfolio**, where I showcase my projects in **Po
 <img src="images/portfolio/pizza.png" width="800" />  
 
 ---
+### 📌 [Fake News Detection](https://github.com/Priyanka302002/fake_news_detection)  
+🤖 **Tech Used:** `Machine Learning` `Python` `Natural Language Processing`  
+🔹 Classifying news articles as **Fake** or **Real** using **ML models** and **NLP techniques**.
+
+<img src="images/portfolio/fake_news_detection.png" width="800" />  
+
+---
+
 
 ### 📌 [HR Data Analytics](https://github.com/Priyanka302002/hr_data_analytics)  
 📊 **Tech Used:** `Power BI` `HR Analytics` `Employee Insights`  
