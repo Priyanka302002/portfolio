@@ -12,43 +12,44 @@ Welcome to my **Data Analytics Portfolio**, where I showcase my projects in **Po
 
 ## 🏆 **Projects**  
 
-### 📌 [Pizza Sales Dashboard](https://github.com/YOUR_GITHUB/PizzaSalesDashboard)  
+### 📌 [Pizza Sales Dashboard](https://github.com/Priyanka302002/pizza_sales)  
 📊 **Tech Used:** `Power BI` `Data Visualization` `Sales Analysis`  
 🔹 Interactive dashboard analyzing **pizza sales, revenue trends, and customer preferences**.  
 
-<img src="images/pizza_sales_dashboard.png" width="800" />  
+<img src="images/portfolio/pizza.png" width="800" />  
 
 ---
 
-### 📌 [HR Data Analytics](https://github.com/YOUR_GITHUB/HR-Data-Analytics)  
+### 📌 [HR Data Analytics](https://github.com/Priyanka302002/hr_data_analytics)  
 📊 **Tech Used:** `Power BI` `HR Analytics` `Employee Insights`  
 🔹 Dashboard showcasing **employee attrition, performance trends, and workforce insights**.  
 
-<img src="images/hr_data_analytics.png" width="800" />  
+<img src="images/portfolio/hr_analitics_dashboard.png" width="800" />  
 
 ---
 
-### 📌 [Credit Card Default Prediction](https://github.com/YOUR_GITHUB/Credit-Default)  
-🤖 **Tech Used:** `Machine Learning` `Python` `Logistic Regression`  
-🔹 Predicting **credit card defaulters** based on financial history using **ML models**.  
+### 📌 [SMS Classification](https://github.com/Priyanka302002/sms_classifier/tree/main)  
+🤖 **Tech Used:** `Machine Learning` `Python` `Naive Bayes` `Logistic Regression`  
+🔹 Classifying SMS messages as **Spam** or **Not Spam** using **ML models**.
 
-<img src="images/credit_card_default.png" width="800" />  
+<img src="images/portfolio/sms_classification.png" width="800" />  
 
 ---
 
-### 📌 [JobAura Job Portal](https://github.com/YOUR_GITHUB/JobAura)  
+
+### 📌 [JobAura Job Portal](https://github.com/Priyanka302002/django_job_portal)  
 🌐 **Tech Used:** `Django` `HTML` `CSS` `JavaScript`  
 🔹 A full-fledged **job portal** web application for job seekers and recruiters.  
 
-<img src="images/job_aura.png" width="800" />  
+<img src="images/portfolio/job_portal.png" width="800" />  
 
 ---
 
-### 📌 [OLA Data Analytics](https://github.com/YOUR_GITHUB/OKA-Data-Analytics)  
+### 📌 [OLA Data Analytics](images/portfolio/modals/m-ola_data_analysis.png)  
 📊 **Tech Used:** `Power BI` `SQL` `Data Visualization`  
 🔹 Analytics project providing **data-driven insights** for business decision-making.  
 
-<img src="images/oka_data_analytics.png" width="800" />  
+<img src="images/portfolio/ola_data_analysis.png" width="800" />  
 
 ---
 
@@ -63,12 +64,12 @@ Welcome to my **Data Analytics Portfolio**, where I showcase my projects in **Po
 
 ## 📬 **Connect With Me**  
 🌐 [Portfolio Website](https://yourportfolio.com)  
-📧 [Email](mailto:your.email@example.com)  
+📧 [Email](mailto:your.priyajolingi@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/j-priyanka-735056305/)  
 
 ---
 
 ### ⭐ **If you like my work, give it a star!** 🌟  
 ```bash
-git clone https://github.com/YOUR_GITHUB/YourPortfolio.git
+git clone https://github.com/Priyanka302002/portfolio
 ```
