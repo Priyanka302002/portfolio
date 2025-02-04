@@ -71,7 +71,7 @@ Welcome to my **Data Analytics Portfolio**, where I showcase my projects in **Po
 ---
 
 ## 📬 **Connect With Me**  
-🌐 [Portfolio Website](https://yourportfolio.com)  
+🌐 [Portfolio Website](https://priyankajolingi-portfolio.netlify.app/)  
 📧 [Email](mailto:your.priyajolingi@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/j-priyanka-735056305/)  
 
